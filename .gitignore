@@ -1,0 +1,7 @@
+# Compiled output
+out/
+*.class
+
+# IntelliJ auto-generated (không cần thiết khi share)
+.idea/workspace.xml
+.idea/tasks.xml

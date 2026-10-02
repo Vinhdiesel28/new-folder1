@@ -1,0 +1,5 @@
+# Bỏ qua file sinh tự động của IntelliJ, giữ lại config quan trọng
+workspace.xml
+tasks.xml
+usage.statistics.xml
+shelf/
